@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/gsalo/source/repos/Manim/ManimCE/media/videos/main_condition/1080p60/partial_movie_files/MyScene1/2724823860_3421944247_223132457.mp4'
